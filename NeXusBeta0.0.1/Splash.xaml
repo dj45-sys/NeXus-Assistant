@@ -1,0 +1,14 @@
+﻿<Window x:Class="NeXusBeta0._0._1.Splash"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NeXusBeta0._0._1"
+        mc:Ignorable="d"
+        Title="NeXus-Assistant" Height="300" Width="300" ResizeMode="NoResize" ShowInTaskbar="False" WindowStyle="None" Background="{x:Null}" AllowsTransparency="True" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="300" VerticalAlignment="Top" Width="300" Source="Images/System/NeXus-Assistant logo.png"/>
+        <ProgressBar x:Name="pbLoad" HorizontalAlignment="Left" Height="5" Margin="0,290,0,0" VerticalAlignment="Top" Width="300" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF0068FF" Value="21"/>
+
+    </Grid>
+</Window>
