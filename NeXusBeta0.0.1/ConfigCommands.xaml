@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NeXusBeta0._0._1"
         mc:Ignorable="d"
-        Title="ConfigComandos" Height="339" Width="581">
+        Title="Configuración De Comandos" Height="339" Width="581">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="145*"/>

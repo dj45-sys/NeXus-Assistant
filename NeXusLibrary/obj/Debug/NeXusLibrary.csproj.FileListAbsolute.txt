@@ -7,3 +7,12 @@ C:\Users\diyey\OneDrive - Games\Escritorio\MiCarpeta\Diyey45 Studio\Proyectos\En
 C:\Users\diyey\OneDrive - Games\Escritorio\MiCarpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Assistant\NeXusLibrary\obj\Debug\NeXusLibrary.csproj.CoreCompileInputs.cache
 C:\Users\diyey\OneDrive - Games\Escritorio\MiCarpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Assistant\NeXusLibrary\obj\Debug\NeXusLibrary.dll
 C:\Users\diyey\OneDrive - Games\Escritorio\MiCarpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Assistant\NeXusLibrary\obj\Debug\NeXusLibrary.pdb
+C:\Users\diyey\OneDrive - Games\Escritorio\MiCarpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Assistant\Beta0.0.1\NeXusLibrary\bin\Debug\NeXusDB.mdf
+C:\Users\diyey\OneDrive - Games\Escritorio\MiCarpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Assistant\Beta0.0.1\NeXusLibrary\bin\Debug\NeXusDB_log.ldf
+C:\Users\diyey\OneDrive - Games\Escritorio\MiCarpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Assistant\Beta0.0.1\NeXusLibrary\bin\Debug\NeXusLibrary.dll.config
+C:\Users\diyey\OneDrive - Games\Escritorio\MiCarpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Assistant\Beta0.0.1\NeXusLibrary\bin\Debug\NeXusLibrary.dll
+C:\Users\diyey\OneDrive - Games\Escritorio\MiCarpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Assistant\Beta0.0.1\NeXusLibrary\bin\Debug\NeXusLibrary.pdb
+C:\Users\diyey\OneDrive - Games\Escritorio\MiCarpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Assistant\Beta0.0.1\NeXusLibrary\obj\Debug\NeXusLibrary.csproj.CoreCompileInputs.cache
+C:\Users\diyey\OneDrive - Games\Escritorio\MiCarpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Assistant\Beta0.0.1\NeXusLibrary\obj\Debug\NeXusLibrary.dll
+C:\Users\diyey\OneDrive - Games\Escritorio\MiCarpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Assistant\Beta0.0.1\NeXusLibrary\obj\Debug\NeXusLibrary.pdb
+C:\Users\diyey\OneDrive - Games\Escritorio\MiCarpeta\Diyey45 Studio\Proyectos\En proceso\Nexus-Assistant\Beta0.0.1\NeXusLibrary\obj\Debug\NeXusLibrary.csprojAssemblyReference.cache

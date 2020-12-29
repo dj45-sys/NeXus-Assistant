@@ -5,11 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NeXusBeta0._0._1"
         mc:Ignorable="d"
-        Title="ConfigIni" Height="300" Width="300">
+        Title="Configuracion Inicial" Height="300" Width="300">
     <Grid>
         <Button x:Name="btnFalse" Content="False" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="272" Height="87" Click="btnFalse_Click"/>
         <Button x:Name="btnTrue" Content="True" HorizontalAlignment="Left" Margin="10,152,0,0" VerticalAlignment="Top" Width="272" Height="107" Click="btnTrue_Click"/>
-        <Label x:Name="lblSalida" Content="" HorizontalAlignment="Left" Margin="120,111,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblSalida" Content="" HorizontalAlignment="Left" Margin="126,126,0,0" VerticalAlignment="Top"/>
+        <Label Content="¿Es Tu Primera Vez Utilizándome?" HorizontalAlignment="Left" Height="26" Margin="42,102,0,0" VerticalAlignment="Top" Width="220"/>
 
     </Grid>
 </Window>
